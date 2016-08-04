@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  CircleSlider
-//
-//  Created by Andre Fiebig on 04.08.16.
-//  Copyright © 2016 Andre Fiebig. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
